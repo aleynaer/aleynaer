@@ -3,14 +3,20 @@
 <!--
 **aleynaer/aleynaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```python
+print("Hello there!")
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# I'm Aleyna,
+
+- I'm a newbie that who wants to master as a data-bender :seedling:
+- I'm currently a Ph.D. student at YTU :star2:
+- I'm currently working at DCAT Group as Jr. BI Consultant 
+
+You can reach me there;
+
+- [LinkedIn](www.linkedin.com/in/aleynaer)
+- :email: aleyynaer@gmail.com
+
+
 -->
