@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**aleynaer/aleynaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - I'm a newbie that who wants to master as a data-bender :seedling:
 - I'm currently a Ph.D. student at YTU :star2:
 - I'm currently working at DCAT Group as Jr. BI Consultant 
@@ -14,4 +10,3 @@ You can reach me there;
 - :email: aleyynaer@gmail.com
 
 
--->
