@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm a newbie who wants to master as a data-bender :seedling:
-- I'm currently a Ph.D. student at YTU :star2:
+- I'm a Ph.D. candidate at YTU :star2:
 - I'm currently working at DCAT Group as Jr. BI Consultant 
 
 You can also reach me here;
