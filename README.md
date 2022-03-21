@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - I'm a newbie who wants to master as a data-bender :seedling:
-- I'm a Ph.D. student at YTU :star2:
-- I'm currently working at Setur R&D department as Project Assistant
+- Ph.D. student at YTU :star2:
+- currently working at Setur R&D department as Project Assistant
 - My interests are Data Science, Data Mining, ML, DL & NLP
 
 You can also reach me here;
