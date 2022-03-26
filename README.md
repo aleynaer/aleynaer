@@ -1,4 +1,4 @@
-### Hi there
+### Hi there!
 
 - I'm a newbie who wants to master as a data-bender :seedling:
 - Ph.D. student at YTU :star2:
