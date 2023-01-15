@@ -1,7 +1,7 @@
 ### Hi there!
 
 - I'm a newbie who wants to master as a data-bender :seedling:
-- currently working at Setur R&D department as Project Assistant
+- currently working at Setur R&D department as AI Specialist
 - My interests are Data Science, Data Mining, ML, DL & NLP
 
 You can also reach me here;
